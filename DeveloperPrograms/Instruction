@@ -1,0 +1,2 @@
+1. While addding github account first time to the STS enter github username without email id
+2. for password generate a token from the github setting->Developer Settings->Personal access tokens and add this token in password in STS
